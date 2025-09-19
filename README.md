@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bharath-0127
-- 👀 I’m interested in automation testing 
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m bharath me
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning sql,python,r-programming,power-bi,Tableau etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
